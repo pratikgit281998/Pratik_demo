@@ -1,6 +1,6 @@
 # Pratik_demo
-demo repository for practice
+<!-- demo repository for practice -->
 
 author = 'Pratik N'
-name = 'abca'
+name = 'abssca'
 x = 10
